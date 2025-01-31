@@ -10,3 +10,8 @@ Run either of the following commands to install the necessary dependencies:
 
 ```bash
 yarn install
+
+### 2. Technologies used
+React – Frontend framework for building the user interface.
+Firebase – Backend for real-time database, authentication, and data storage.
+Yarn/NPM – Package managers to manage project dependencies.
